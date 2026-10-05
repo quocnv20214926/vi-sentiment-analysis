@@ -307,13 +307,6 @@ python -m pytest tests/ --cov=src --cov-report=term-missing
 - **Dataset**: Based on the [Emotion Dataset](https://huggingface.co/datasets/dair-ai/emotion) translated to Vietnamese.
 - **underthesea**: Vietnamese NLP Toolkit – https://github.com/undertheseanlp/underthesea
 
----
-
-## 📄 License
-
-This project is for educational purposes as part of the NLP course (2024-1).
-
----
 
 <div align="center">
 
