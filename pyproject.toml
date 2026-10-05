@@ -1,0 +1,8 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "slow: marks tests as slow (deselect with '-m \"not slow\"')",
+]
+python_files = "test_*.py"
+python_classes = "Test*"
+python_functions = "test_*"
